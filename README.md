@@ -1,4 +1,4 @@
-# AlarmSystem32_NFC
+# AlarmSystem32 NFC
 AlarmSystem32 additional module for NFC reader
 
 This module allows you to interface an NFC card reader (PN532) to control the alarmSystem32. It also allows the connection of a NeoPixel RGB LED which signals the status of the control unit and a buzzer for any acoustic signals.
